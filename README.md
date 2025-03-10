@@ -84,7 +84,7 @@ The dataset was obtained from the [Kaggle Walmart Sales Forecasting Competition]
 5. What is the city with the largest revenue?
 6. What product line had the largest VAT?
 7. Fetch each product line and add a column to those product line showing "Good", "Bad". Good if its greater than average sales
-8. Which branch sold more products than average product sold?
+8. Which branch sold more products than the average product sold?
 9. What is the most common product line by gender?
 12. What is the average rating of each product line?
 
